@@ -14,7 +14,7 @@ The possible ways that can improve the performance is using less interations in 
 
 Application Preview:
 ---
-<img src="resources/appDisplay.png" height="100"/>
+<img src="resources/AppDisplay.png" height="100"/>
 
 Resources
 ---
